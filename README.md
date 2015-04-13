@@ -8,8 +8,9 @@ desde consola corre correctamente
 localhost
 5000
 ```
-…
+```
 *localhost es la ip
 *5000 	  el puerto a usar 
 *by Zam saludos a todos ja ja ja.
  :-]
+```
